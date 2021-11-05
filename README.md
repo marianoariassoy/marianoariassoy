@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400" />
 
 <!---
 marianoariassoy/marianoariassoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
